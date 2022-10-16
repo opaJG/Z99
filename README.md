@@ -2,6 +2,8 @@
 
 Z99 is a multifunctional 4 axis machine.
 
+<img alt="YOUR-ALT-TEXT" src="CoverManual.jpg">
+
 ## Some possibilities of the Z99 are:
 
 - Drawing on screen and large format plot output, up to A3+.
