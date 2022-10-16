@@ -40,7 +40,5 @@ All documentation for construction and use is in the book :
 
 "Build Your Own Multifunctional 4 Axis Machine"
 
-Edited and printed by 
-
-https://www.elektor.com
+Edited and printed by https://www.elektor.com
 
