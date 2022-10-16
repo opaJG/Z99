@@ -18,7 +18,10 @@ Z99 is a multifunctional 4 axis machine.
 ## Installation
 
 Click on the green 'Code' button.
-Download InstallZ99.zip. Extract and execute InstallZ99.exe
+
+Download InstallZ99.zip.
+
+Extract and execute InstallZ99.exe
 
 ## Content
 
@@ -34,7 +37,10 @@ After installation, the subdirectories are:
 ## Manual
 
 All documentation for construction and use is in the book :
+
 "Build Your Own Multifunctional 4 Axis Machine"
+
 Edited and printed by 
+
 https://www.elektor.com
 
