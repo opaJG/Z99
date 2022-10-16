@@ -2,7 +2,7 @@
 
 Z99 is a multifunctional 4 axis machine.
 
-<img alt="YOUR-ALT-TEXT" src="CoverManual.jpg"width=50% height=50%>
+<img src="CoverManual.jpg"width=50% height=50%>
 
 ## Some possibilities of the Z99 are:
 
