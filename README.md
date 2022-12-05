@@ -30,6 +30,8 @@ Extract and execute InstallZ99.exe
 After installation, the subdirectories are:
 - \3Dparts: Contains all .scad source code and .stl files.
 - \CSharpCode: The C# source code for Visual Studio 2015,2017,2022.
+If your Windows system has difficulties to run XYZ.exe, download Visual Studio
+Community and open the solution \CSharpCode\XYZ.sln. 
 - \DemoFiles: HPGL, Gerber, Drill, Gerber, and G-code files.
 - \MikrocontrollerCode: PIC microcontroller code and Z99.hex file. 
 - \PCB_LayoutAndSchematicDesign: Contains the schematic and PCB layout.
