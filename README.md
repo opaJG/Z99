@@ -41,7 +41,7 @@ After installation, the subdirectories are:
 
 All documentation for construction and use is in the book :
 
-"Build Your Own Multifunctional 4 Axis Machine"
+"Build Your Own Multifunctional 4-Axis CNC Machine"
 
 Edited and printed by https://www.elektor.com
 
